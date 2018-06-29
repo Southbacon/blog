@@ -31,7 +31,7 @@
     "gh-pages": "^1.1.0",
     "prettier": "^1.12.0"
   },
-  "homepage": "https://southbacon.github.io/",
+  "homepage": "https://southbacon.github.io/blog",
   "keywords": [
     "gatsby"
   ],
@@ -39,7 +39,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Southbacon/southbacon.github.io.git"
+    "url": "git+https://github.com/Southbacon/blog.git"
   },
   "scripts": {
     "dev": "gatsby develop",
@@ -48,7 +48,7 @@
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js' 'src/**/*.md'",
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "deploy": "gatsby build --prefix-paths && gh-pages -b master -d public",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
   }
 }
