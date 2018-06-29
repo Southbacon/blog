@@ -24,9 +24,9 @@
   git remote add upstream git@github.com:Southbacon/blog.git
   ```
 7. Install packages:
-	```shell
-	npm install
-	```
+  ```shell
+  npm install
+  ```
 
 8. Run `gatsby develop` or `npm run develop`.
 
@@ -35,11 +35,11 @@
 
 ## Creating new Blog Entries
 1. Keep conflicts at bay; before creating a new topic:
-	```shell
-	git checkout master
-	git fetch upstream
-	git reset --hard upstream/master
-	```
+  ```shell
+  git checkout master
+  git fetch upstream
+  git reset --hard upstream/master
+  ```
 
 2. Create a new branch with the title of your new entry:
   ```shell
@@ -47,24 +47,24 @@
   ```
 
 3. Create your new entry inside of the `src/pages/` directory.
-	**New name of your post should be formatted like: `YYYY-MM-DD-post-title`.**
+  **New name of your post should be formatted like: `YYYY-MM-DD-post-title`.**
 
 4. At the top of the entry, use the following metadata template:
-```
----
-title: Hello World
-date: "2018-06-29T13:12:03.284Z"
-author: your-username
----
-```
+  ```
+  ---
+  title: Hello World
+  date: "2018-06-29T13:12:03.284Z"
+  author: your-username
+  ---
+  ```
 
 5. Write your awesome blog post.
 
 6. Commit your entry like a baws.
-	```shell
-	git add YYYY-MM-DD-post-title
-	git commit -m "YYYY-MM-DD-post-title - This is mah stuffs, y0. FAWTH FLAW FO LYF!"
-	```
+  ```shell
+  git add YYYY-MM-DD-post-title
+  git commit -m "YYYY-MM-DD-post-title - This is mah stuffs, y0. FAWTH FLAW FO LYF!"
+  ```
 
 7. Create a new pull request against the main repository's master branch.
 
