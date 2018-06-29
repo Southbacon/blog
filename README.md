@@ -3,7 +3,7 @@
 ## Creating new Blog Entries
 1. Create a new branch with the title of your new entry.
 2. Create your new entry inside of the `src/pages/` directory. (New name of post should probably be formatted like this: `YYYY-MM-DD-post-title`.)
-3. At the top of the entry, put the following metadata:
+3. At the top of the entry, use the following metadata template:
 ```
 ---
 title: Hello World
