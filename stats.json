@@ -12,6 +12,10 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
+    "path---posts-2018-06-29-testing-the-posts-folder": [
+      "path---posts-2018-06-29-testing-the-posts-folder-5122713cb0fdb209c36f.js",
+      "path---posts-2018-06-29-testing-the-posts-folder-5122713cb0fdb209c36f.js.map"
+    ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-6a27619e75bc5f3a8832.js",
       "component---src-templates-blog-post-js-6a27619e75bc5f3a8832.js.map"
@@ -21,12 +25,12 @@
       "component---src-layouts-index-js-085829a1fe689ca23491.js.map"
     ],
     "path---index": [
-      "path---index-5c466658669786a636d6.js",
-      "path---index-5c466658669786a636d6.js.map"
+      "path---index-a8238b4293b91f5f967b.js",
+      "path---index-a8238b4293b91f5f967b.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-0e44ba1cb11ab3e1c766.js",
-      "path---hello-world-0e44ba1cb11ab3e1c766.js.map"
+      "path---hello-world-b3e1cf458f17669b9b98.js",
+      "path---hello-world-b3e1cf458f17669b9b98.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -47,9 +51,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-8baf86b11dd436e6f8ee.js",
+      "app-1d115c24fe8f515cf366.js",
       "build-js-styles.css",
-      "app-8baf86b11dd436e6f8ee.js.map",
+      "app-1d115c24fe8f515cf366.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
