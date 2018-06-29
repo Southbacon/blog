@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{509:function(e,t){e.exports={data:{site:{siteMetadata:{title:"The Southbacon Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…",fields:{slug:"/hello-world/"},frontmatter:{date:"01 May, 2015",title:"Hello World"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-5c466658669786a636d6.js.map
